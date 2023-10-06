@@ -1,4 +1,4 @@
 export function transformEvent(event, metadata) {
-  event.prpoerties.david = 'tenenbaum';
+  event.properties.david = 'tenenbaum';
   return event;
 }
