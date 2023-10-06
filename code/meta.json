@@ -1,0 +1,11 @@
+{
+    "transformations": [
+      {
+        "file": "./code/code.js",
+        "name": "Transformation Action Demo",
+        "description": "Demo",
+        "language": "javascript",
+        "test-input-file": "./code/events.json",
+        "expected-output": "./code/expected.json"
+      }
+  }
