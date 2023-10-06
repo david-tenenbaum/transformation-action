@@ -22,5 +22,6 @@ jobs:
         with:
           metaPath: './code/meta.json'
           email: 'david.tenenbaum87@gmail.com'
-          accessToken: ${{ secrets.ACCESS_TOKEN }}
+          # accessToken: ${{ secrets.ACCESS_TOKEN }}
+          accessToken: 2WOuyJfpjkHmIepjniYEP93YZim
           uploadTestArtifact: true
