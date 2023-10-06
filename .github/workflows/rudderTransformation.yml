@@ -19,6 +19,6 @@ jobs:
         uses: rudderlabs/rudder-transformation-action@1.1.0
         with:
           metaPath: ./code/meta.json
-          email: david.tenenbaum87@gmail.com
+          email: 'david.tenenbaum87@gmail.com'
           accessToken: '2WOuyJfpjkHmIepjniYEP93YZim'
           uploadTestArtifact: true
